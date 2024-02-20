@@ -11,7 +11,10 @@ To create more affordable housing so people are able to live, we can turn buildi
 By collecting data from real estate websites such as Zillow, Trulia, and RedFin, we can check housing prices along with when a property is bought and sold. We can look at data from quarterly reports and transactions from real estate companies to find buildings that are not being sold or used. Finding properties that are underutilized spaces can help us allocate certain areas for affordable housing. Using machine learning algorithms, we can track these changes and get real-time data.
 
 
-Contributions of Each Member:\n
-Introduction - Selma Hassan\n
-Why - Vivian Liu\n
+Contributions of Each Member:
+
+Introduction - Selma Hassan
+
+Why - Vivian Liu
+
 Method - Ayesha Saeed

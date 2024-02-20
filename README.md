@@ -14,6 +14,11 @@ By collecting data from real estate websites such as Zillow, Trulia, and RedFin,
 #### Challenges faced while working:
 We ran into merge conflicts a few times while editing, but we were able to resolve them.
 
+
+#### References
+https://www.nytimes.com/2022/03/10/realestate/vacancy-rate-by-state.html 
+https://www.bisnow.com/atlanta/news/office/greenstone-marketing-the-empty-14thspring-for-sale-122722 
+
 Contributions of Each Member:
 
 Introduction - Selma Hassan
